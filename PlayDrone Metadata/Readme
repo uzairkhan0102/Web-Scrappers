@@ -1,6 +1,5 @@
-
 Python code to download torrents_files from 'https://archive.org/details/playdrone-metadata'. This site contains data about multiple Google play_store apps. 
 Python Libraries Used: 
-1. requests
-2. urllib2
-3. BeautifulSoup
+  1. requests
+  2. urllib2
+  3. BeautifulSoup
