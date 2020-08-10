@@ -1,0 +1,8 @@
+Python code to extract text content from 'https://www.unilever.nl/'.
+Python Libraries Used: 
+  1. requests
+  2. urllib2
+  3. BeautifulSoup
+  4. csv
+  5. re
+  6. os
