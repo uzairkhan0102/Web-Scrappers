@@ -1,0 +1,14 @@
+Python code to collect 'Breast Cancer' pateints data from 'http://visual.ic.uff.br/dmi/' website. Login through the website and then scrap every pateints data. 
+Patients data: 
+  1. Id
+  2. Pateint Images
+  3. Age
+  4. Dianostic
+  5. Image Veiw
+
+Python Libraries Used: 
+  1. requests
+  2. urllib2
+  3. BeautifulSoup
+  4. RoboBrowser
+  5. config
