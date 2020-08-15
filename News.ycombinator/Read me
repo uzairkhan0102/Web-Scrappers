@@ -1,0 +1,12 @@
+Python code to scrap jobs from 'https://news.ycombinator.com/jobs'. This site contains data about multiple jobs opeings in different companeis.
+
+Jobs related data: 
+  1. Company name that is hiring
+  2. Location of Company
+  3. Jobs position
+
+Python Libraries Used: 
+  1. requests
+  2. re
+  3. BeautifulSoup
+  4. csv
