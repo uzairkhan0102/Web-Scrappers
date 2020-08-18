@@ -1,0 +1,10 @@
+Python code to scrap News information from 'https://www.aljazeera.com/'. This site have multiple news articles about whta's happeinig in the world.
+
+News articles related data: 
+  1. link for the news article
+  2. News Article name
+  3. Category of News article
+  4. AUthor of the  news article
+
+Python Libraries Used: 
+  1. Scrapy
